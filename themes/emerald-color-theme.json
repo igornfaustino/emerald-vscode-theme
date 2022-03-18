@@ -2,7 +2,7 @@
 	"name": "emerald",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#262626",
+		"editor.background": "#1f1f1f",
 		"sideBar.background": "#212121",
 		"activityBar.background": "#1c1c1c",
 		"editor.foreground": "#eeffff",
@@ -11,7 +11,7 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 		"activityBar.activeBorder": "#338247",
 		"button.background": "#338247",
-		"editorLineNumber.activeForeground": "#80ff82",
+		"editorLineNumber.activeForeground": "#88aa94",
 		"editorLineNumber.foreground": "#4d4d4d",
 		"focusBorder": "#235c31",
 		"list.activeSelectionBackground": "#235c31",
