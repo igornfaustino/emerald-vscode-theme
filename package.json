@@ -3,9 +3,12 @@
     "displayName": "emerald",
     "description": "dark theme inpired on the emerald color",
     "version": "0.0.1",
+    "publisher": "igornfaustino",
+    "repository": "https://github.com/igornfaustino/emerald-vscode-theme",
     "engines": {
         "vscode": "^1.65.0"
     },
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
