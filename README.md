@@ -20,7 +20,3 @@ If you'd like to contribute to this theme, please read the [contributing guideli
 
 [MIT License](./LICENSE)
 
-## Others
-
-<a href="https://www.flaticon.com/free-icons/emerald" title="emerald icons">Emerald icons created by KP Arts - Flaticon</a>
-
