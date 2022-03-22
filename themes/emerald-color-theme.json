@@ -65,7 +65,10 @@
 			"scope": [
 				"keyword",
 				"storage.type",
-				"storage.modifier"
+				"keyword.other.new",
+				"keyword.other.var",
+				"storage.modifier",
+				"keyword.other.class"
 			],
 			"settings": {
 				"foreground": "#8aff80"
@@ -88,7 +91,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#80ffd7"
+				"foreground": "#8AFF80"
 			}
 		},
 		{
@@ -113,6 +116,16 @@
 			],
 			"settings": {
 				"foreground": "#ffe180"
+			}
+		},
+		{
+			"name": "Imports",
+			"scope": [
+				"meta.import variable.other.readwrite",
+				"meta.variable.assignment.destructured.object.coffee variable"
+			],
+			"settings": {
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -143,6 +156,7 @@
 				"constant.character",
 				"constant.escape",
 				"variable.parameter",
+				"entity.name.variable.parameter",
 				"keyword.other.unit",
 				"keyword.other"
 			],
@@ -184,10 +198,11 @@
 		{
 			"name": "Entity Types",
 			"scope": [
-				"support.type"
+				"support.type",
+				"entity.name.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#80FFD7"
 			}
 		},
 		{
@@ -201,7 +216,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#80FFD7"
 			}
 		},
 		{

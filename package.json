@@ -2,7 +2,7 @@
     "name": "emerald",
     "displayName": "Emerald",
     "description": "Emerald Theme. A dark theme for visual studio code",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "igornfaustino",
     "repository": "https://github.com/igornfaustino/emerald-vscode-theme",
     "engines": {
