@@ -1,13 +1,13 @@
 {
-	"name": "emerald",
+	"name": "Emerald",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#1f1f1f",
 		"sideBar.background": "#212121",
 		"activityBar.background": "#1c1c1c",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#fff",
-		"activityBarBadge.foreground": "#338247",
+		"activityBarBadge.background": "#2e5e4d",
+		"activityBarBadge.foreground": "#fff",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"activityBar.activeBorder": "#338247",
 		"button.background": "#338247",
