@@ -397,7 +397,8 @@
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
-				"punctuation.definition.list_item.markdown"
+				"punctuation.definition.list_item.markdown",
+				"meta.jsx.children"
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
